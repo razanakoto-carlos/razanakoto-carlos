@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 💬 Ask me about **laravel , react , node Js**
+- 💬 Ask me about **Laravel , React ,NodeJs**
 
 - 📫 How to reach me **razanakotocarlos24@gmail.com**
 
@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/carlos razanakoto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos razanakoto" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/29104096" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29104096" height="30" width="40" /></a>
 <a href="https://fb.com/carlos hernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="carlos hernandez" height="30" width="40" /></a>
 </p>
 
