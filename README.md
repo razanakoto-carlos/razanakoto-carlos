@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
 <h3 align="center">A passionate FullStack developer from Madagascar</h3>
 
-- 🔭 I’m currently working on [Gestion et Validation de project](https://github.com/razanakoto-carlos/gestionProjet)
-
 - 🌱 I’m currently learning **Frameworks**
 
 - 💬 Ask me about **Laravel , React**
 
 - 📫 How to reach me **razanakotocarlos24@gmail.com**
 
-- ⚡ Fun fact **I think learning to code is a must**
+- ⚡ Fun fact **It's not i know java that i know javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
