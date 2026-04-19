@@ -1,7 +1,5 @@
 <h3 align="center">A passionate Full-Stack JavaScript Developer from Madagascar 🇲🇬</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=razanakoto-carlos" alt="razanakoto-carlos" /></a> </p>
-
 - 🌱 I’m currently learning **Advanced Node.js, TypeScript and Backend Architecture**
 
 - 👨‍💻 All of my projects are available at [https://razanakoto-carlos.vercel.app/](https://razanakoto-carlos.vercel.app/)
