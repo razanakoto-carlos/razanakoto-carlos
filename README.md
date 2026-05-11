@@ -74,8 +74,8 @@
 
 <div align="center">
   <a href="https://github.com/razanakoto-carlos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=razanakoto-carlos&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=0077B5&text_color=E3F0FF&icon_color=00C6FF&border_color=0077B5"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razanakoto-carlos&layout=compact&langs_count=7&bg_color=1F1D36&title_color=0077B5&text_color=E3F0FF&border_color=0077B5"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=razanakoto-carlos&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=0077B5&text_color=E3F0FF&icon_color=00C6FF&border_color=0077B5" alt="razanakoto carlos" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razanakoto-carlos&layout=compact&langs_count=7&bg_color=1F1D36&title_color=0077B5&text_color=E3F0FF&border_color=0077B5" alt="razanakoto carlos"/>
   </a>
 </div>
 
